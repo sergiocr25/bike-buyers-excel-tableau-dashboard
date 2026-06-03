@@ -97,6 +97,7 @@ This project also helped me practise recreating a similar dashboarding workflow 
 - `data/cleaned/cleaned_bike_buyers_dataset.csv`: cleaned dataset used for analysis and dashboard creation.
 - `excel/bike_buyers_excel_dashboard.xlsx`: Excel workbook containing the working sheet, pivot tables and dashboard.
 - `tableau/bike_buyers_tableau_dashboard.twbx`: Tableau dashboard workbook.
+- `tableau/bike_buyers_tableau_dashboard.twb`: Tableau workbook file.
 - `images/bike_buyers_excel_dashboard.png`: Excel dashboard preview image.
 
 ## Conclusion
